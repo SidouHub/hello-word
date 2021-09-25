@@ -1,0 +1,3 @@
+git clone https://github.com/bernard-giroux/geo1303
+cd geo1303
+python setup.py install
